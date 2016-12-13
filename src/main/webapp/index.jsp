@@ -4,9 +4,9 @@
 </head>
 <body>
 	<h1>Bon Appetit</h1>
-	<h2>Test première modification !</h2>
+	<h2>Test première modification</h2>
 	<p>
-		It is now
+		It is nosw
 		<%= new java.util.Date() %></p>
 	<p>
 		You are coming from 
