@@ -4,6 +4,7 @@
 </head>
 <body>
 	<h1>Bon Appetit</h1>
+	<h2>Test première modif Florian</h2>
 	<p>
 		It is now
 		<%= new java.util.Date() %></p>
